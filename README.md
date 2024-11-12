@@ -1,8 +1,8 @@
 # About me
-Hi there! I am **_Surjendu Das_**.  
+Hello there! This is **_Surjendu Das_**.  
 
-An experienced 3D generalist & a software engineering graduate, based in India, passionate about Computer Graphics and Rendering Technologies,
-having both Technical & Artistic skills to develop/create beautiful pixels on screen.  
+An experienced 3D Technical Artist, specialized in VFX/CG Look-Development, Shading, realtime and offline rendering. 
+Passionate about Computer Graphics and Rendering Technologies,
 I am currently specialized in Look-development & Lighting.
 
 ## Contact
