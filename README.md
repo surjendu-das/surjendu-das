@@ -1,9 +1,7 @@
 # About me
 Hello there! This is **_Surjendu Das_**.  
 
-An experienced 3D Technical Artist, specialized in VFX/CG Look-Development, Shading, realtime and offline rendering. 
-Passionate about Computer Graphics and Rendering Technologies,
-I am currently specialized in Look-development & Lighting.
+An experienced 3D Technical Artist, computer graphics enthusiast, specialized in Look-Development, Shading in both Realtime and Offline rendering technologies. 
 
 ## Contact
 Email -  surjendu.creator@gmail.com  
