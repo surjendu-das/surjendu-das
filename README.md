@@ -1,5 +1,5 @@
 # About me
-Hello there! This is **_Surjendu Das_**.  
+Hello there! This is **_Surjyendu Das_**.  
 
 An experienced 3D Technical Artist, computer graphics enthusiast, specialized in Look-Development, Shading in both Realtime and Offline rendering technologies. 
 
@@ -7,9 +7,9 @@ An experienced 3D Technical Artist, computer graphics enthusiast, specialized in
 Email -  surjendu.creator@gmail.com  
 
 ### Social Links
-[LinkedIn](https://www.linkedin.com/in/surjendudas1111)  
-[Artstation](https://www.artstation.com/suryarocker)  
-[YouTube](https://www.youtube.com/@surjendudas9175)
+[LinkedIn](https://www.linkedin.com/in/surjyenduxyz/)  
+[Artstation](https://surjyenduxyz.artstation.com/)  
+[YouTube](https://www.youtube.com/@surjyenduxyz)
 
 
 <!---
